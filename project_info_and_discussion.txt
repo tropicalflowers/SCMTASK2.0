@@ -1,1 +1,5 @@
-this was our project in semester 1
+this is our group project
+
+this game helps you in challenging your memory and comes with 3 inbuilt levels. 
+
+the game offers very attractive interface and also times the user on each level.
