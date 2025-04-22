@@ -1,1 +1,2 @@
 this was our project in semester 1
+changed the image on the main page
