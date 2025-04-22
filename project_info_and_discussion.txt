@@ -1,2 +1,3 @@
 this was our project in semester 1
 changed the image on the main page
+i am making all the changes in a new branch: branch1; to avoid any conflicts.
