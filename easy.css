@@ -46,6 +46,7 @@ body {
   height: 100px;
   cursor: pointer;
   perspective: 1000px;
+  transition: transform 0.3s ease;
 }
 
 /* === Front and Back View of Cards === */
