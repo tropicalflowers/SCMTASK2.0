@@ -12,5 +12,9 @@ i have removed "about.html" because it was not working.
 
 (resolved the merge conflicts and this is all i want to keep)
 
-i chnaged the main image on the main page to match the main theme
+i changed the main image on the main page to match the main theme
  5ea9b00a0e1731e280f99432e6118658c1319e63
+
+the css files have been changed and updated by Prachi(0552).
+
+
