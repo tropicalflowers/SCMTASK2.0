@@ -40,6 +40,11 @@ body {
   cursor: pointer;
   perspective: 1000px;
 }
+.card:hover {
+  transition: transform 0.3s ease;
+  transform: scale(1.05);
+}
+
 
 .card .view {
   width: 100%;
