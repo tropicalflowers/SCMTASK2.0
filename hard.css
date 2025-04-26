@@ -40,6 +40,11 @@ body{
   height: calc(100% / 4 - 10px);
   width: calc(100% / 4 - 10px);
 }
+.cards .card:hover {
+  transform: scale(1.05);
+  transition: transform 0.2s ease;
+}
+
 .card.shake{
   animation: shake 0.35s ease-in-out;
 }
