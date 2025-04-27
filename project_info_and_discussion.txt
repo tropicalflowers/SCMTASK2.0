@@ -21,4 +21,7 @@ i have made a new branch :"branch2" because i will be updating the codes and jav
 
 due to an error in the normal level; I have removed it. ill also remove its css and html files in order to fix it. (Tanseem)
 
+removed the normal.css file (Tanseem)
+
+
 
