@@ -23,6 +23,7 @@ due to an error in the normal level; I have removed it. ill also remove its css 
 
 removed the normal.css file (Tanseem)
 removed the normal.js file(Tanseem)
+trying to resolve the issue with the timer (Tanseem)
 
 
 
