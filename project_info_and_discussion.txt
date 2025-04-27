@@ -25,6 +25,7 @@ removed the normal.css file (Tanseem)
 removed the normal.js file(Tanseem)
 trying to resolve the issue with the timer (Tanseem)
 the conflict has been resolved (Tanseem)
+adding thte corrected files back (Tanseem)
 
 
 
