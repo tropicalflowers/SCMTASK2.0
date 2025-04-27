@@ -19,4 +19,6 @@ the css files have been changed and updated by Prachi(0552).
 
 i have made a new branch :"branch2" because i will be updating the codes and javascript files. (Tanseem 0565)
 
+due to an error in the normal level; I have removed it. ill also remove its css and html files in order to fix it. (Tanseem)
+
 
