@@ -32,6 +32,8 @@ body {
   border: 2px solid #d4d4d4;
 }
 
+
+
 /* === Grid Layout for Cards === */
 .cards {
   display: grid;
@@ -88,6 +90,10 @@ body {
 
 .card .back-view img {
   max-width: 45px;
+}
+.card:hover {
+  transform: scale(1.05) translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
 }
 
 /* === Navbar Styling === */
