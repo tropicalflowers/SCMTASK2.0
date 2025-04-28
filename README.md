@@ -7,15 +7,12 @@ i have fixed the navigation page
 
 i have added favicons on each website 
 
-A  simple memory card matching game built as part of SCMTASK2.0.
-Its features are:
- Card matching logic
- Basic UI
 
- How to run it:
-  Extract the ZIP file.
- Open `index.html` in a browser (if it's web-based) or run with Python/etc..
- 
+A web-based memory card matching game developed as part of SCMTASK2.0. Challenge your memory across three difficulty levels with an engaging interface and timed gameplay.
 
 
 
+- Three difficulty levels: Easy, Medium, Hard
+- Interactive card flip animations
+- Timer functionality to track user performance
+- Responsive design compatible with various devices
