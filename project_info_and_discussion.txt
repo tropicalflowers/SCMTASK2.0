@@ -30,6 +30,7 @@ the corrected files have been added (Tanseem)
 
 the branch i made has been merged into the main branch(main) (Tanseem)
 
+<<<<<<< HEAD
 Project: Memory Match Game
 Purpose: To develop an engaging memory card matching game with multiple difficulty levels and timed challenges.
 
@@ -38,3 +39,9 @@ Future Enhancements:
 - Implement a scoring system based on time and attempts.
 - Develop a leaderboard to track high scores.
 
+reinitialised repo on local device (Prachi 0554)
+making changes in js file(Prachi 54)
+made changes in javascript files(all levels) (Prachi 54)
+
+ master
+there was a merge conflict but it has been fixed now (Prachi 054)
