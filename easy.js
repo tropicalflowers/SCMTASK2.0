@@ -33,7 +33,7 @@ function flipCard(event) {
     matchCards(cardOneImg, cardTwoImg);
   }
 }
-
+//tis function checks if the two cards match or not and also removes the event listener from the cards once they are matched
 function matchCards(img1, img2) {
   if (img1 === img2) {
     matched++;
