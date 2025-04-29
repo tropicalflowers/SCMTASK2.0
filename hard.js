@@ -8,7 +8,7 @@ let startTime, endTime;
 function startTimer() {
   startTime = new Date();
 }
-// function timer
+// this function exists so that the timer stops calculating the time once all the cards have been matched
 function stopTimer() {
   endTime = new Date();
   let timeDiff = endTime - startTime; // in ms
