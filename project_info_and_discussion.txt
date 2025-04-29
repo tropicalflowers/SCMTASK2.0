@@ -38,3 +38,4 @@ Future Enhancements:
 - Implement a scoring system based on time and attempts.
 - Develop a leaderboard to track high scores.
 
+adding icons and other changes in about.html (Tanseem)
