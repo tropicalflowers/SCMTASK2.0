@@ -37,7 +37,7 @@ function flipCard(event) {
 function matchCards(img1, img2) {
   if (img1 === img2) {
     matched++;
-    if (matched == 2) {
+    if (matched == cards.length/2) {
       stopTimer(); // Stop timer when all matches are found
       setTimeout(() => {
         return shuffleCard();
