@@ -12,7 +12,7 @@ function startTimer() {
 function stopTimer() {
   endTime = new Date();
   let timeDiff = endTime - startTime; // in ms
-  timeDiff /= 100000; // convert to seconds
+  timeDiff /= 1000; // convert to seconds
   let seconds = Math.round(timeDiff);
   alert(`Level Completed! Time taken: ${seconds} seconds`);
 }
