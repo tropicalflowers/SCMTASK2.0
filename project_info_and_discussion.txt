@@ -55,3 +55,4 @@ changes in navbar of instructions.html
 
 
 the definitions of what each and every user defined function does in js has been added in the comments of the code of easy.js(Tanseem)
+now i will add function definitions for each user defined functions in every js file such as hard.js and normal.js(Tanseem)
