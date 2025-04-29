@@ -27,7 +27,7 @@ body {
 .wrapper {
   padding: 25px;
   border-radius: 10px;
-  background: whitesmoke;
+  background: #f8f8f8;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
   border: 2px solid #d4d4d4;
 }
