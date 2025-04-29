@@ -8,7 +8,7 @@ let startTime, endTime;
 function startTimer() {
   startTime = new Date();
 }
-
+//this funcrtion exists so that the timer stops calculating the time once all the cards have been matched 
 function stopTimer() {
   endTime = new Date();
   let timeDiff = endTime - startTime; // in ms
@@ -16,7 +16,7 @@ function stopTimer() {
   let seconds = Math.round(timeDiff);
   alert(`Level Completed! Time taken: ${seconds} seconds. Resetting the level after 'ok' gets clicked.`);
 }
-
+//this function controls the animation of the cards when they are flipped and also checks if the cards match or not
 function flipCard(event) {
   if (!startTime) startTimer(); // Start timer when first card is flipped
 
@@ -33,7 +33,7 @@ function flipCard(event) {
     matchCards(cardOneImg, cardTwoImg);
   }
 }
-
+//tis function checks if the two cards match or not and also removes the event listener from the cards once they are matched
 function matchCards(img1, img2) {
   if (img1 === img2) {
     matched++;
@@ -60,7 +60,7 @@ function matchCards(img1, img2) {
     disableDeck = false;
   }, 1200);
 }
-
+//this function shuffles the cards and resets the game
 function shuffleCard() {
   matched = 0;
   disableDeck = false;
