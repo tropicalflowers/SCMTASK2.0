@@ -8,7 +8,7 @@ let startTime, endTime;
 function startTimer() {
   startTime = new Date();
 }
-
+// function timer
 function stopTimer() {
   endTime = new Date();
   let timeDiff = endTime - startTime; // in ms
