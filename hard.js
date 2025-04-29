@@ -16,7 +16,7 @@ function stopTimer() {
   let seconds = Math.round(timeDiff);
   alert(`Level Completed! Time taken: ${seconds} seconds`);
 }
-
+//this function controls the animation of the cards when they are flipped and also checks if the cards match or not
 function flipCard({ target: clickedCard }) {
   if (!startTime) startTimer(); // Start timer when first card is flipped
 
