@@ -60,7 +60,7 @@ function matchCards(img1, img2) {
     disableDeck = false;
   }, 1200);
 }
-
+//this function shuffles the cards and resets the game
 function shuffleCard() {
   matched = 0;
   disableDeck = false;
