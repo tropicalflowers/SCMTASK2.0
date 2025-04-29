@@ -82,3 +82,5 @@ shuffleCard();
 cards.forEach((card) => {
   card.addEventListener("click", flipCard);
 });
+
+//commenting out the below code as it is not needed for the current functionality

@@ -50,7 +50,7 @@ function matchCards(img1, img2) {
   }
   setTimeout(() => {
     cardOne.classList.add("shake");
-    
+    cardTwo.classList.add("shake");
   }, 400);
 
   setTimeout(() => {
@@ -81,3 +81,4 @@ shuffleCard();
 cards.forEach((card) => {
   card.addEventListener("click", flipCard);
 });
+//comment comment comment

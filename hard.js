@@ -8,7 +8,7 @@ let startTime, endTime;
 function startTimer() {
   startTime = new Date();
 }
-
+// function timer
 function stopTimer() {
   endTime = new Date();
   let timeDiff = endTime - startTime; // in ms
@@ -80,3 +80,4 @@ shuffleCard();
 cards.forEach((card) => {
   card.addEventListener("click", flipCard);
 });
+//comment commtn commtnt
