@@ -62,7 +62,8 @@ function matchCards(img1, img2) {
     }, 1200);
   }
 }
-
+//this function resets the cards back to their original state and shuffles them,// and also resets the timer
+// and the matched cards are removed from the deck
 function shuffleCard() {
   matched = 0;
   disableDeck = false;
