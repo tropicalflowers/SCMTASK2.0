@@ -52,3 +52,6 @@ changes in colour scheme of files(Prachi 054)
 changes in content alignment of css files(Prachi 054) 
 changes in navbar of instructions.html
  2244ade14dc55eec402c36eeb356fb2700d77f13
+
+
+the definitions of what each and every user defined function does in js has been added in the comments of the code of easy.js(Tanseem)
