@@ -60,3 +60,4 @@ the definitions of functions for each function in normal.js has been added(Tanse
 the definitions of each function in hard.js has been added (Tanseem)
 
 
+adding new text here to initiate a merge conflict for the file(Tanseem)
